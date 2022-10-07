@@ -58,7 +58,7 @@ for url in list1:
     eurl = r'http://'+url
     
     if(get_url(eurl)):
-        list2.append(eurl)
+        list2.append(url)
     #print(get_url(eurl))
 
 
