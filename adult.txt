@@ -1,3 +1,79 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@vveg26 
+v2ray
+/
+domain-list-community
+Public
+Code
+Issues
+9
+Pull requests
+5
+Actions
+Security
+Insights
+domain-list-community/data/category-porn
+@actions-user
+actions-user Sync data directory with v2fly automatically
+Latest commit c5e4f81 9 hours ago
+ History
+ 5 contributors
+4514 lines (4504 sloc)  65.1 KB
+
+include:18comic
+include:54647
+include:avmoo
+include:bilibili2
+include:bongacams
+include:boylove
+include:brazzers
+include:bttzyw
+include:clips4sale
+include:digitalplayground
+include:dlsite
+include:dmm-porn
+include:ehentai
+include:erolabs
+include:heyzo
+include:illusion
+include:illusion-nonofficial
+include:jable
+include:javbus
+include:javcc
+include:javdb
+include:javwide
+include:johren
+include:lethalhardcore
+include:metart
+include:moxing
+include:nutaku
+include:picacg
+include:pornhub
+include:pornpros
+include:redtube
+include:shireyishunjian
+include:theporndude
+include:thescoregroup
+include:truyen-hentai
+include:uu-chat
+include:xhamster
+include:xingkongwuxianmedia
+include:xnxx
+include:xvideos
+include:youjizz
+
+
+# The top domains of the pornographic website.
+
+adult
+porn
+
 02weqj32.com
 04647.club
 0cgdklr5sfwj.com
@@ -182,7 +258,6 @@
 91porn.com
 91porny.com
 91qk41rf.com
-91rb.net
 91se.fun
 91sesex.xyz
 91tv.tw
@@ -247,6 +322,7 @@ adultgamestop.com
 adultgamingroom.com
 adultgeek.net
 adulti01.com
+adultinfojpn.com
 adultism.com
 adultmagazinespdf.com
 adulto.vip
@@ -439,6 +515,7 @@ av69.tv
 av69.us
 av6k.com
 avbebe.com
+avcar.vip
 avcens.xyz
 avcrempie.com
 avday.tv
@@ -491,6 +568,7 @@ badjojo.com
 badsexygirl.com
 badteenspunished.com
 badvirtue.com
+baeb.com
 ballbustingtube.com
 bamtoki.com
 banatal3arab.com
@@ -581,6 +659,7 @@ bigtitsgallery.net
 bigtitsmodelsdirectory.com
 bigtopsites.com
 biguz.net
+bijukujo.club
 bimbim.com
 bioporno.com
 bisyoujyogyaruge.topaz.ne.jp
@@ -762,13 +841,13 @@ citasecuador.com
 city-hentai.com
 cityoflove.com
 citytourgirls.com
+clasporno.org
 classymomsex.com
 climateone.blogspot.co.id
 clip16.com
 clipcake.com
 cliphayho.com
 cliphunter.com
-clips4sale.com
 clipsaoyai.com
 clipsbai.com
 clipseksi.com
@@ -794,6 +873,7 @@ collectionofbestporn.com
 collegepornonly.com
 colombianas.webcam
 comdotgame.com
+comeav.com
 comicbox.xyz
 comicscartoonporn.com
 comicsporno.es
@@ -899,6 +979,7 @@ deviantclip.com
 devilsfilm.com
 dexterhorn.com
 df-bet.com
+dgaqp.com
 dgwav.com
 dhlestudio.com.co
 diamantewebcam.com
@@ -1020,6 +1101,7 @@ elpube-scat-movies.blogspot.com
 empflix.com
 empornium.site
 encuentroscasualesoecuador.com
+enemarotica.com
 enf-cmnf.com
 enjoyasianporn.com
 enjoyfuck.com
@@ -1029,6 +1111,7 @@ erito.com
 ero-anime.net
 ero-comic-hunter.net
 ero-kawa.com
+ero-ma-nia.com
 ero-manga-platinum.net
 ero-mangalife.com
 eroan.xyz
@@ -1090,6 +1173,7 @@ ethiosex2.wordpress.com
 eurobabeindex.com
 eurogirlsescort.com
 europornstar.com
+eurosexscene.com
 evaelfie.com
 evemodels.com
 everia.club
@@ -1113,6 +1197,7 @@ extrajapaneseporn.com
 extreme-board.com
 extremepornfilms.com
 extremetube.com
+exxxtrasmall.com
 exxxtrasmall1.com
 eyny.com
 f6988.com
@@ -1150,6 +1235,7 @@ fantasiasguatemala.com
 fantasti.cc
 fantasticyoungporn.com
 fap-xxx.com
+fap18.net
 fap666.com
 fapality.com
 fapcat.com
@@ -1916,6 +2002,7 @@ jav-legend.com
 jav-subtitles.com
 jav-vr.net
 jav.dog
+jav.gallery
 jav.guru
 jav.land
 jav.place
@@ -1923,11 +2010,15 @@ jav01.cc
 jav101.com
 jav168.cc
 jav19.com
+jav24.com
 jav2be.com
 jav321.com
+jav4you.org
 jav777.cc
+jav9999.com
 javbangers.com
 javbraze.com
+javcl.com
 javday.tv
 javdisk.com
 javdoe.com
@@ -1975,6 +2066,7 @@ javplatform.com
 javporn.tech
 javporn.ws
 javprice.com
+javprime.net
 javpub.me
 javpush.com
 javqd.com
@@ -1997,6 +2089,7 @@ javtube.com
 javtube.net
 javvids.com
 javynow.com
+jayspov.net
 jdavsp.pw
 jdforum.net
 jenporno.cz
@@ -2030,10 +2123,12 @@ joiasmr.com
 jokerlu1.cc
 jokerlu1.info
 joyclub.de
+joyhentai.com
 joylovedolls.com
 joyourself.com
 joysporn.com
 jpav.us
+jpavcom.com
 jpboy1069.net
 jpg4.biz
 jpg4.info
@@ -2099,6 +2194,7 @@ kingextre.me
 kink.com
 kinkbook.com
 kinklive.com
+kinkyfamily.com
 kir2kos.net
 kismia.com
 kisscos.net
@@ -2144,6 +2240,7 @@ lcgirls.com
 leakedmeat.com
 leaksmodels.com
 leakxxx.com
+lemoncams.com
 lenkino.xxx
 leporno.org
 lepornochaud.com
@@ -2155,6 +2252,7 @@ lesbiansubmission.com
 lesboerotica.net
 letmejerk.com
 letmejerk.fun
+letsdoeit.com
 letsfuckme.net
 letsjerk.cc
 levelsex.com
@@ -2235,6 +2333,7 @@ lustylist.com
 luvmov.com
 luxuretv.com
 luxuretv.fun
+lxxlxx.com
 m5ir5np1.shop
 machigle-sp.com
 machogaytube.com
@@ -2389,7 +2488,6 @@ motherporn.ovh
 moviesarena.com
 moviesfree4u.xyz
 moviesneek.com
-moxing.mobi
 mplstudios.com
 mrchewsasianbeaver.com
 mrcong.com
@@ -2403,6 +2501,7 @@ mrsSiren.com
 mrskin.com
 mrvideosdesexo.xxx
 mt-ssul1.com
+mtao.fun
 mu6bce1c.xyz
 muchohentai.com
 mulheresafoder.com
@@ -2416,12 +2515,14 @@ muycerdas.xxx
 muyzorras.com
 mvideoporno.xxx
 mwhentai.net
+my-enema.com
 my3dhentai.com
 myamateurgirls.net
 myanmar-porn.com
 myavfun.com
 myavok.com
 myavsuper.com
+mybabehotz.com
 myboylove.com
 mybukkakeporn.com
 mycams.com
@@ -2436,6 +2537,7 @@ myfreeblack.com
 myfreecams.com
 myfreepaysite.com
 myfreeporngames.com
+mygaysites.com
 myhentaicomics.com
 myhentaigallery.com
 mylf.com
@@ -2827,6 +2929,7 @@ pornenix.com
 porner.tv
 pornerbros.com
 pornexpress.net
+pornfactory.info
 pornfidelity.com
 pornfind.org
 pornfinder.biz
@@ -2974,7 +3077,6 @@ pornpander.com
 pornpaw.com
 pornper.com
 pornpics.com
-pornprosnetwork.com
 pornproxy.app
 pornqd.com
 pornrabbit.com
@@ -3082,6 +3184,7 @@ qatarescortsvip.com
 qckprn.com
 qdiehzz7.me
 qdmomentum.com
+qinav.com
 qingse.one
 qkjuyet.com
 qmov.com
@@ -3130,8 +3233,6 @@ redporno.cz
 redsexhub.com
 redtub3xxx.com
 redtube.blog
-redtube.com
-redtube.com.br
 redtube9.com
 redtubepremium.com
 redwap-xxx.com
@@ -3195,6 +3296,7 @@ savitabhabhi.com
 savitabhabhi.vip
 savitahd.net
 scandalplanet.com
+scat-enema.com
 scat-japan.com
 scat-shop.net
 scatfap.com
@@ -3202,6 +3304,7 @@ scatfinder.com
 scathd.com
 scatkings.com
 scatnetwork.com
+scatolo-guromania.com
 scatshop.com
 scatsite.com
 scatvids.club
@@ -3448,6 +3551,7 @@ sp.cool
 spankbang.com
 spankbang1.com
 spankingtube.com
+spankmonster.com
 spankred3d.com
 spankwire.com
 spectraltube.com
@@ -3474,6 +3578,7 @@ stimorolsex.com
 stin31.ru
 stocking-tease.com
 stockingfetishvideo.com
+stonefoxproductions.com
 storiesonline.net
 straightpornstuds.com
 stream-mydirtyhobby.biz
@@ -3536,6 +3641,7 @@ taiav.com
 taiwansex.tw
 taknai.com
 taleofthenight.com
+tanflix.com
 taradinhos.com
 tastyblacks.com
 tati-log.com
@@ -3774,6 +3880,7 @@ tubxporn.xxx
 tufos.com.br
 tukif.com
 turbogvideos.com
+tushy.com
 twavking.com
 twcomix.com
 twhentai.com
@@ -3829,6 +3936,7 @@ vagabundasdoorkut.net
 vagina.nl
 vaginacontest.com
 vbejeyv.shop
+vdoav.com
 venezporn.com
 veporn.com
 vepornhd.club
@@ -4143,6 +4251,7 @@ xx-map.com
 xx159.com.cn
 xx9.app
 xxbb9.com
+xxbook.cc
 xxbrits.com
 xxeronetxx.info
 xxgasm.com
@@ -4234,6 +4343,7 @@ xxxvideoszoo.com
 xxxvidso.com
 xxxvirtualworld.com
 xxxvogue.net
+xxxwow.net
 xxxxvideo.uno
 xxxymovies.com
 xxxyoungxxx.com
@@ -4359,3 +4469,20 @@ zqqpwz.com
 zzcartoon.com
 zzgays.com
 zzitube.com
+
+# Internationalized Domain Name
+
+xn--80aaazx1an0a.lol
+xn--8uq428d76d.tokyo
+xn--cck4d8b3009a.com
+xn--gmq92kd2rm1kx34a.com
+xn--hckl3e1e8a8ajin0czf.net
+xn--hhr917d3fecva.xyz
+xn--m1abbbgjah.lol
+xn--mtswd61ejxq.com
+xn--r8jwklh769h2mc880dk1o431a.com
+xn--r8jwklh769hk43amcfoyl3z3a.com
+xn--uis17aj9kmuf.com
+xn--urs05q.jp
+xn--x-qeu1ji09tzlg.biz
+xn--x-qeu1ji09tzlg.net
