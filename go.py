@@ -64,7 +64,7 @@ headers = {
         }  # 构造请求头
 content =requests.get('https://raw.githubusercontent.com/v2ray/domain-list-community/master/data/category-porn',headers=headers)
 
-fi.write(content)
+fi.write(content.content)
 
 txt=fi.readlines()
 
