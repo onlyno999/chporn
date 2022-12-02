@@ -5,7 +5,7 @@
 筛选一些中文老司机网站
 ## 来源
 源网址集：
-https://github.com/v2ray/domain-list-community/tree/master/data
+https://github.com/v2ray/domain-list-community/blob/master/data/category-porn
 
 
 中文网址集：
