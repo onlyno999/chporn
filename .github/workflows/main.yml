@@ -6,7 +6,7 @@ on:
   # 定时触发
   schedule:
     # 每三天获取一次
-    - cron: '26 2 */3 * *'
+    - cron: '26 2 */7 * *'
 
 jobs:
   deploy:
